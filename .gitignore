@@ -1,0 +1,15 @@
+node_modules/
+
+# Сборка Docusaurus
+build/
+.docusaurus/
+.cache-loader/
+
+# Локальное окружение
+.env
+.env.local
+
+# Системное
+.DS_Store
+*.log
+npm-debug.log*
