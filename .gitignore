@@ -8,6 +8,7 @@ build/
 # Локальное окружение
 .env
 .env.local
+.claude/settings.local.json
 
 # Системное
 .DS_Store
